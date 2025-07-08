@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Chat Viewer",
+  "description": "A secure, in-browser tool to decrypt and view WhatsApp .crypt14 chat backups locally. Upload your key and database file to browse your messages in a familiar interface without sending any data to the cloud.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
